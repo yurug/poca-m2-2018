@@ -12,3 +12,6 @@
   https://www.scala-exercises.org/scala_tutorial/
 - Formation des groupes de projet
 - Jalon 1 : Traduction du sujet du projet en "user stories" écrites en Gherkins.
+* Cours 2 "Modélisation objet" <2018-10-09>
+** Rappels sur le fonctionnement de GitHub
+   - Pour organiser votre projet, utiliser l'onglet "Project" de GitHub.
