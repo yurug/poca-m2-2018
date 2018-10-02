@@ -1,0 +1,14 @@
+*Programmation Objet, Concepts Avancés*
+
+* Cours 1 "Introduction" <2018-10-02>
+** Transparents d'introduction du cours
+   - Voir file:cours/cours-01.pdf
+** Présentation du projet
+   - Voir file:projet/version-1.pdf
+** TP
+- Mise en place de environnement de développement Scala (Installation
+  de sbt et d'éventuels IDEs)
+- Prendre en main de premiers éléments de syntaxe via :
+  https://www.scala-exercises.org/scala_tutorial/
+- Formation des groupes de projet
+- Jalon 1 : Traduction du sujet du projet en "user stories" écrites en Gherkins.
