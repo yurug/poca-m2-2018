@@ -15,3 +15,4 @@
 * Cours 2 "Modélisation objet" <2018-10-09>
 ** Rappels sur le fonctionnement de GitHub
    - Pour organiser votre projet, utiliser l'onglet "Project" de GitHub.
+** TODO S'incrire sur https://listes.univ-paris-diderot.fr/sympa/info/poca-m2-2018
