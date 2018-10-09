@@ -56,3 +56,4 @@
 ** Choses à faire
 *** TODO S'incrire sur https://listes.univ-paris-diderot.fr/sympa/info/poca-m2-2018
 *** TODO Premier jalon
+*** TODO Lire https://www.quora.com/As-a-programmer-what-is-the-best-advice-youve-ever-been-given
