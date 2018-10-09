@@ -13,6 +13,46 @@
 - Formation des groupes de projet
 - Jalon 1 : Traduction du sujet du projet en "user stories" écrites en Gherkins.
 * Cours 2 "Modélisation objet" <2018-10-09>
-** Rappels sur le fonctionnement de GitHub
+** Retour sur le projet
+*** Ce que l'on attend de vous
+    - Structurer et expliciter le travail de groupe
+    - Evaluer son temps de réalisation d'un tâche
+    - Rédiger des documents de travail utiles
+    - Réfléchir, analyser, concevoir
+    - Écrire du Scala, au moins aussi bien que votre Java
+*** Rappels sur le fonctionnement de Git et GitHub
    - Pour organiser votre projet, utiliser l'onglet "Project" de GitHub.
-** TODO S'incrire sur https://listes.univ-paris-diderot.fr/sympa/info/poca-m2-2018
+   - Les branches doivent être dans le dépôt officiel
+   - Ne pas confondre issue et milestone
+   - Faire de la relecture de code
+   - Suivre le git-flow
+*** Interactions avec les chargés de TD
+    - Ce sont de "super" chefs de projets
+    - Vous devez avoir un rendez-vous une fois par semaine avec eux.
+** La modélisation objet par l'exemple
+*** Grandes phases des processus de modélisation objet
+    - Brainstorming : créatif
+    - Analyse : organise
+    - Architecture : structure
+    - Conception : résoudre
+    - Réalisation : construire
+    - Validation : vérifie
+*** La charge mentale
+**** Brainstorming
+     Voir photo
+**** Formulation du problème général
+     - Le problème est d'exécuter les tâches non faites par leurs responsables.
+     - Le problème est de finir les tâches ménagères accordées aux
+       membres de la famille dans une durée de temps bien définie.
+     - Le problème est de rétablir l'équilibre dans l'exécution des tâches.
+     - Le problème est d'assumer le travail de direction des tâches ménagères.
+     - Le problème est de plannifier l'exécution des tâches.
+     - Le problème est de quantifier la charge de travail en fonction des tâches,
+       des personnes et de différents paramètres.
+     - Le problème est de déterminer les tâches à faire.
+     - Le problème général est de prendre en charge les tâches de la vie quotidienne
+       d'un foyer de leur explicitation à leur réalisation.
+** Les classes
+** Choses à faire
+*** TODO S'incrire sur https://listes.univ-paris-diderot.fr/sympa/info/poca-m2-2018
+*** TODO Premier jalon
