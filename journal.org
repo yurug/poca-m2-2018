@@ -52,8 +52,27 @@
      - Le problème est de déterminer les tâches à faire.
      - Le problème général est de prendre en charge les tâches de la vie quotidienne
        d'un foyer de leur explicitation à leur réalisation.
-** Les classes
 ** Choses à faire
 *** TODO S'incrire sur https://listes.univ-paris-diderot.fr/sympa/info/poca-m2-2018
 *** TODO Premier jalon
 *** TODO Lire https://www.quora.com/As-a-programmer-what-is-the-best-advice-youve-ever-been-given
+* Cours 3 "Modélisation objet" <2018-10-16>
+** Retour sur le projet
+** La modélisation objet par l'exemple
+   - Retour sur le projet "Charge mentale"
+
+   - "Dans un projet modulaire, on peut tout jeter!" 
+      -- Anonymous
+
+   - "Being abstract is something profoundly different from being
+     vague … The purpose of abstraction is not to be vague, but to
+     create a new semantic level in which one can be absolutely
+     precise."
+     -- EDW Dijkstra
+
+** Le sous-typage
+   [file:cours/cours-03/sous-typer-avec-classe.pdf]
+   [file:cours/cours-03/dynamic-typing.jpg]
+** Choses à faire
+*** TODO Lire https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
+*** TODO Lire https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
