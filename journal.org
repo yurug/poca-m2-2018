@@ -73,6 +73,8 @@
 ** Le sous-typage
    [file:cours/cours-03/sous-typer-avec-classe.pdf]
    [file:cours/cours-03/dynamic-typing.jpg]
+   - Définition du sous-typage, de la covariance et contravariance
+   - Problème des méthodes binaires
 ** Choses à faire
 *** TODO Lire https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 *** TODO Lire https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
