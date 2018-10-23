@@ -78,3 +78,25 @@
 ** Choses à faire
 *** TODO Lire https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 *** TODO Lire https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+*** TODO Ecrire deux user stories pour l'étude de cas "Charge mentale"
+*** TODO Etudier https://en.wikipedia.org/wiki/Software_architecture
+*** TODO Etudier https://fr.wikipedia.org/wiki/Architecture_logicielle
+* Cours 4 "Sous-typage et classe"
+** Sur le projet et l'usage de Git
+   - revenir sur la gestion d'un projet
+   - docx n'est pas un format acceptable
+   - ne pas utiliser d'autres outils (Overleaf) car il n'y a pas de trace!
+   - les messages de commit et les descriptions de PR, c'est important!
+   - trop peu de "relectures"
+** La modélisation objet par l'exemple
+   - Retour sur les cas d'utilisation qui étaient à faire aujourd'hui.
+   - Lesquels sont essentiels? Quels sont les relations d'inclusion entre eux?
+   - Faire un choix argumenter d'architecture.
+   - Quels sont les "concepts" essentiels sur lesquels appuyer une
+     conception de ce logiciel?
+** Le sous-typage
+   - Qu'avez-vous compris du problème des méthodes binaires?
+** Les classes
+   - La classe comme un concept
+   - La classe comme une interface
+   - Problème de classe de base fragile
