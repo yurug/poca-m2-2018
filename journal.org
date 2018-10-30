@@ -81,7 +81,7 @@
 *** TODO Ecrire deux user stories pour l'étude de cas "Charge mentale"
 *** TODO Etudier https://en.wikipedia.org/wiki/Software_architecture
 *** TODO Etudier https://fr.wikipedia.org/wiki/Architecture_logicielle
-* Cours 4 "Sous-typage et classe"
+* Cours 4 "Sous-typage et classe" <2018-10-23>
 ** Sur le projet et l'usage de Git
    - revenir sur la gestion d'un projet
    - docx n'est pas un format acceptable
@@ -98,5 +98,11 @@
    - Qu'avez-vous compris du problème des méthodes binaires?
 ** Les classes
    - La classe comme un concept
+* Cours 5 "Des classes aux traits" <2018-10-30>
+** La modélisation objet par l'exemple
+   - Classification des uses cases et architectures
+   - Explicitation des sous-problèmes du logiciel
+** La classe
    - La classe comme une interface
    - Problème de classe de base fragile
+** Le trait, Saint Graal de la modularité
