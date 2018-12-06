@@ -111,4 +111,18 @@
    - Problème de classe de base fragile
 * Cours 7 "Les traits" <2018-11-20>
 ** Modélisation objet du paquet "Le maître du foyer"
+*** Ses responsabilités
+    - Interpréter les signaux des capteurs
+    - Ajouter la tâche d'un assistant
+    - Assigner une tâche à un assistant
+    - Marquer  une tâche comme faite
+    - Donner l'historique des tâches à un administrateur
+    - Ajouter une règle d'expert
+    - Connaître toutes les tâches faites ou à faire dans le foyer
+    - Connaître les différents assistants
+    - Questionner et discuter avec les capteurs
+    - Informer les assistants de leur tâche affectée, leur rappeler et interagir avec eux
 ** Le trait, Saint Graal de la modularité
+* Cours 8 "Les traits" <2018-11-27>
+** Le trait, Saint Graal de la modularité
+** Modélisation objet du paquet "Le maître du foyer"
