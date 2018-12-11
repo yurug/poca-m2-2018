@@ -126,3 +126,14 @@
 * Cours 8 "Les traits" <2018-11-27>
 ** Le trait, Saint Graal de la modularité
 ** Modélisation objet du paquet "Le maître du foyer"
+* Cours 9 "Révisions" <2018-12-04>
+* Cours 10 "POO" <2018-12-11>
+** Retour sur le projet
+** Fin des révisions
+** Injection de dépendances
+** Retour sur les design patterns
+** Futur de la POO?
+   - les acteurs et Akka
+   - les objets fonctionnels purs
+   - la complémentation avec une approche fonctionnelle
+** Bilan sur la POO
